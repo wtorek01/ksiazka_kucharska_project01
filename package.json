@@ -1,0 +1,9 @@
+  {
+    "scripts": {
+      "dev": "vite",
+      "build": "vite build",
+      "lint": "eslint .",
+      "preview": "vite preview",
+      "start": "npm run build && node server.cjs"
+    }
+  }

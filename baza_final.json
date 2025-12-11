@@ -1,0 +1,75 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Klasyczna Jajecznica",
+      "category": "Śniadanie",
+      "description": "3 jajka, masło, sól. Smażyć powoli.",
+      "author": "System"
+    },
+    {
+      "id": 2,
+      "name": "Spaghetti Carbonara",
+      "category": "Obiad",
+      "description": "Makaron, boczek, żółtka, ser pecorino i pieprz.",
+      "author": "WłoskiSzef"
+    },
+    {
+      "id": 3,
+      "name": "Sernik",
+      "category": "Deser",
+      "description": "Twaróg, jajka, cukier. Piec 60 min w 180C.",
+      "author": "Babcia"
+    },
+    {
+      "id": 4,
+      "name": "Pizza Domowa",
+      "category": "Kolacja",
+      "description": "Ciasto drożdżowe, sos pomidorowy, ser mozzarella.",
+      "author": "System"
+    },
+    {
+      "id": 5,
+      "name": "Owsianka",
+      "category": "Śniadanie",
+      "description": "Płatki owsiane, mleko, banan i miód.",
+      "author": "FitKucharz"
+    },
+    {
+      "id": 6,
+      "name": "Schabowy",
+      "category": "Obiad",
+      "description": "Schab, bułka tarta, jajko. Smażyć na złoto.",
+      "author": "Tradycja"
+    },
+    {
+      "id": 7,
+      "name": "Sałatka Cezar",
+      "category": "Kolacja",
+      "description": "Sałata rzymska, kurczak, grzanki, sos.",
+      "author": "Restauracja"
+    },
+    {
+      "id": 8,
+      "name": "Brownie",
+      "category": "Deser",
+      "description": "Czekolada, masło, cukier, mąka. Ciasto mocno czekoladowe.",
+      "author": "Cukiernik"
+    },
+    {
+      "id": 9,
+      "name": "Tosty z serem",
+      "category": "Śniadanie",
+      "description": "Chleb tostowy, ser żółty, szynka. Opiekać w tosterze.",
+      "author": "Student"
+    },
+    {
+      "id": 10,
+      "name": "Pomidorowa",
+      "category": "Obiad",
+      "description": "Rosół, przecier pomidorowy, ryż lub makaron, śmietana.",
+      "author": "Mama"
+    }
+  ],
+  "users": []
+}
